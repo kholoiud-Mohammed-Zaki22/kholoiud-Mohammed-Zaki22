@@ -77,7 +77,7 @@ Developed an AI-powered medical platform that integrates multiple deep learning 
 ## 📈 Current Interests
 
 - Data Analytics
-- - Business Intelligence
+- Business Intelligence
 - Artificial Intelligence
 - Computer Vision
 - Deep Learning Research
