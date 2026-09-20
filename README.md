@@ -26,7 +26,7 @@ An end-to-end platform integrating three deep learning models for medical diagno
 - Deployed via FastAPI + Docker on Railway, with models hosted on Google Drive and loaded dynamically at runtime
 - Debugged and resolved real deployment issues (activation function mismatches, Docker/Railway build config, Python/TF version pinning)
 
-📎 [Repo link]
+📎 [MedScan Repository](https://github.com/kholoiud-Mohammed-Zaki22/MedScan)
 
 ---
 
@@ -50,12 +50,12 @@ FastAPI · Docker · Railway · Git & GitHub · Jupyter · Google Colab · Kaggl
 
 | Project | Description |
 |---|---|
-| [Brain Tumor Classification](link) | CNN-based 4-class MRI classification using EfficientNetB0 |
-| [Pneumonia Detection](link) | Deep learning model for chest X-ray classification |
-| [Diabetic Foot Ulcer Detection](link) | Binary classification model for wound image analysis |
-| [Salary Prediction](link) | Linear regression model estimating salary from experience data |
-| [Taxi Price Prediction](link) | Regression model predicting fare price from trip features |
-| [KNN Classification](link) | K-Nearest Neighbors model for classification tasks |
+| [Brain Tumor Classification](https://github.com/kholoiud-Mohammed-Zaki22/Brain-Tumor) | CNN-based 4-class MRI classification using EfficientNetB0 |
+| [Pneumonia Detection](https://github.com/kholoiud-Mohammed-Zaki22/Pneumonia) | Deep learning model for chest X-ray classification |
+| [Diabetic Foot Ulcer Detection](https://github.com/kholoiud-Mohammed-Zaki22/Diabetic-Foot-Ulcer) | Binary classification model for wound image analysis |
+| [Salary Prediction](https://github.com/kholoiud-Mohammed-Zaki22/LR_Salary_Model) | Linear regression model estimating salary from experience data |
+| [Taxi Price Prediction](https://github.com/kholoiud-Mohammed-Zaki22/LR_Taxi_Price_Model) | Regression model predicting fare price from trip features |
+| [KNN Classification](https://github.com/kholoiud-Mohammed-Zaki22/KNN_Model) | K-Nearest Neighbors model for classification tasks |
 
 ---
 
