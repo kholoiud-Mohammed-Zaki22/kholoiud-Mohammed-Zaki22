@@ -1,64 +1,70 @@
-Hi, I'm Kholoud Mohammed 👋
-Junior Data Analyst | SQL | Excel | Power BI | Python
-🎓 Fresh Graduate in Engineering
-📊 Passionate about Data Analysis and Business Intelligence
-🐍 Interested in Python, SQL, Excel, Power BI, and Data Visualization
-🤖 Background in Machine Learning and Artificial Intelligence
-👩‍💻 About Me
-I am a fresh graduate with a background in Artificial Intelligence and a strong interest in Data Analytics and Business Intelligence.
-I enjoy working with data to clean, analyze, visualize, and transform it into meaningful insights that can support better decision-making.
-Currently, I am developing my skills in SQL, Excel, Power BI, Python, Pandas, and Data Visualization, while building practical projects to strengthen my data analytics portfolio.
-🛠️ Skills
-📊 Data Analysis & Visualization
-Excel
-Power BI
-Tableau
-Pandas
-NumPy
-Matplotlib
-🐍 Programming & Databases
-Python
-SQL
-SQL Server
-MySQL
-🤖 Machine Learning
-Scikit-learn
-TensorFlow
-Keras
-CNN
-Transfer Learning
-🧰 Tools
-Git
-GitHub
-Jupyter Notebook
-Google Colab
-Kaggle
-📂 Featured Projects
-📊 Data Analysis Projects
-Data Cleaning & Exploratory Data Analysis
-SQL Data Analysis
-Excel & Power BI Dashboards
-🤖 Machine Learning Projects
-Brain Tumor Classification
-Pneumonia Detection
-Diabetic Foot Ulcer Detection
-KNN Classification
-Salary Prediction
-Taxi Price Prediction
-🎓 Graduation Project
-MedScan – AI-Powered Medical Image Analysis Platform
-An AI-powered medical image analysis platform that integrates multiple deep learning models for medical image analysis.
-Technologies:
-Python • TensorFlow • Keras • FastAPI • REST API • GitHub • Railway
-🌱 Currently Learning
-Advanced SQL
-Excel & Power Query
-Power BI
-Data Storytelling
-Git & GitHub
-Data Analysis Best Practices
-📫 Connect With Me
-🔗 LinkedIn
-🔗 Kaggle
-🔗 GitHub
+### Hi, I'm Kholoud Mohammed 👋
+Fresh Engineering Graduate | AI/ML & Data Analytics
+
+🎓 Bachelor's in Communications & Electronics Engineering (Very Good with Honors) — Al-Azhar University, Cairo
+📊 Focused on AI/ML, Data Analysis, and Business Intelligence
+🚀 Actively seeking opportunities as an AI Engineer Intern / Data Analyst / BI Analyst
+
+---
+
+### 👩‍💻 About Me
+I'm a fresh engineering graduate with a strong self-directed focus on Artificial Intelligence and Data Analytics. My graduation project applied deep learning to real-world medical imaging problems, and I'm now building a portfolio of data analysis and machine learning projects while sharpening my skills in SQL, Power BI, and Python.
+
+I enjoy turning raw data into clear, actionable insights — and turning ML models into deployed, working applications.
+
+---
+
+### 🎓 Graduation Project — MedScan
+AI-Powered Medical Image Analysis Platform
+
+An end-to-end platform integrating three deep learning models for medical diagnostics, deployed as independent APIs in production.
+
+- 🧠 Brain Tumor Classification — 4-class MRI classification
+- 🫁 Pneumonia Detection — 3-class chest X-ray classification
+- 🦶 Diabetic Foot Ulcer Detection — binary classification
+- All models built on EfficientNetB0 (TensorFlow 2.19), achieving 95–99% accuracy
+- Deployed via FastAPI + Docker on Railway, with models hosted on Google Drive and loaded dynamically at runtime
+- Debugged and resolved real deployment issues (activation function mismatches, Docker/Railway build config, Python/TF version pinning)
+
+📎 [Repo link]
+
+---
+
+### 🛠️ Skills
+
+Data Analysis & Visualization
+Power BI · Tableau · Excel (Advanced) · Pandas · NumPy · Matplotlib
+
+Programming & Databases
+Python · SQL · SQL Server · MySQL
+
+Machine Learning & Deep Learning
+TensorFlow · Keras · Scikit-learn · CNNs · Transfer Learning (EfficientNetB0)
+
+Deployment & Tools
+FastAPI · Docker · Railway · Git & GitHub · Jupyter · Google Colab · Kaggle
+
+---
+
+### 📂 Featured Projects
+
+| Project | Description |
+|---|---|
+| [Brain Tumor Classification](link) | CNN-based 4-class MRI classification using EfficientNetB0 |
+| [Pneumonia Detection](link) | Deep learning model for chest X-ray classification |
+| [Diabetic Foot Ulcer Detection](link) | Binary classification model for wound image analysis |
+| [Salary Prediction](link) | Linear regression model estimating salary from experience data |
+| [Taxi Price Prediction](link) | Regression model predicting fare price from trip features |
+| [KNN Classification](link) | K-Nearest Neighbors model for classification tasks |
+
+---
+
+### 🌱 Currently Learning
+Advanced SQL · Power Query · Power BI · Data Storytelling · Data Analysis Best Practices
+
+---
+
+### 📫 Connect With Me
+🔗 [LinkedIn](https://www.linkedin.com/in/kholoud-mohammed-624a57272) · 🔗 [Kaggle](https://www.kaggle.com/kholoudmohammedzaki) · 📧 kholoud26mohammed@gmail.com
+
 ⭐ Thanks for visiting my profile!
